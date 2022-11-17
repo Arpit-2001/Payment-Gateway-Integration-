@@ -8,7 +8,7 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 ####  About me:
 
 
-[LinkedIn] https://www.linkedin.com/in/tanishq-mahajan-b06997208/
+[LinkedIn] https://www.linkedin.com/in/csg-tanishq-mahajan-971694256/
 
 
 [Github] https://github.com/Tanishq-2001/WebpageForDonation
