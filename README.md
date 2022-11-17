@@ -11,6 +11,6 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 [LinkedIn] https://www.linkedin.com/in/csg-tanishq-mahajan-971694256/
 
 
-[Github] https://github.com/Tanishq-2001/WebpageForDonation
+[Github] https://github.com/Arpit-2001/Payment-Gateway-Integration-
 
 [Website Link] https://purple-cliff-09c233610.1.azurestaticapps.net
