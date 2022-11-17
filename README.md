@@ -13,4 +13,4 @@ This project is coded using `HTML`, `CSS`, `Bootstrap` and `javaScript`
 
 [Github] https://github.com/Arpit-2001/Payment-Gateway-Integration-
 
-[Website Link] https://purple-cliff-09c233610.1.azurestaticapps.net
+[Website Link] https://wonderful-coast-0d8684300.2.azurestaticapps.net/
